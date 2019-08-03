@@ -15,3 +15,9 @@ img
   font-family: helvetica;
   font-size: 16px;
 }
+.ItemIndice1{
+  list-style-type: arial;
+}
+.enlace{
+  color: red;
+}
