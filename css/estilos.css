@@ -18,9 +18,10 @@ img
 .ItemIndice1{
   list-style-type: helvetica;
 }
+
+a[hrefˆ="#"]{
+  color: black
+}
 .enlace{
   color: red;
-}
-a[]hrefˆ='# ']{
-  color: red
 }
