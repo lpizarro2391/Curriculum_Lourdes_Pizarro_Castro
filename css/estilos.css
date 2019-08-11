@@ -48,3 +48,6 @@ article> h2{
 ul li{
   list-style-type: circle;
 }
+a[hrefˆ='https://'],a{
+  color:red;
+}
