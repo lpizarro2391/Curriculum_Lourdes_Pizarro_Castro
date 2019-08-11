@@ -38,3 +38,6 @@ img[src$='jpg'],img[src$='jpg']{
 h1 + h2{
   text-decoration: underline;
 }
+h2 ~ p {
+  text-align: justify;
+}
