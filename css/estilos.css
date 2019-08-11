@@ -25,3 +25,8 @@ a[hrefˆ="#"]{
 .enlace{
   color: red;
 }
+img[src$='.svg']{
+  border-radius: 50px;
+}
+
+  
