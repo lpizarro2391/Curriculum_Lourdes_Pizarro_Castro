@@ -44,3 +44,7 @@ h2 ~ p {
 article> h2{
   text-decoration: underline;
 }
+
+ul li{
+  list-style-type: circle;
+}
