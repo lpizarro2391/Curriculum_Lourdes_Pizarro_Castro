@@ -35,3 +35,6 @@ img[src$='jpg'],img[src$='jpg']{
 *{
   margin: 1vh 2vw;
 }
+h1 + h2{
+  text-decoration: underline;
+}
