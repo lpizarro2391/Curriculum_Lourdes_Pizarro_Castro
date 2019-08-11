@@ -28,5 +28,7 @@ a[hrefˆ="#"]{
 img[src$='.svg']{
   border-radius: 50px;
 }
-
-  
+img[src$='jpg'],img[src$='jpg']{
+  border: 1px solid black;
+  border-radius: 5px
+}
