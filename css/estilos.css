@@ -48,6 +48,7 @@ article> h2{
 ul li{
   list-style-type: circle;
 }
+<<<<<<< HEAD
 a[hrefˆ='https://']:visited{
   color:red;
 }
@@ -57,3 +58,8 @@ a:hover{
 h2:first-child{
   text-decoration: underline;
 }
+=======
+a[hrefˆ='https://'],a{
+  color:red;
+}
+>>>>>>> 0fbe7f1842c5ca89d30d56dab8801bcf54e71deb
