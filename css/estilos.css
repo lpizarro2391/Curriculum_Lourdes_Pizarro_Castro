@@ -54,3 +54,6 @@ a[hrefˆ='https://']:visited{
 a:hover{
     color: green
 }
+h2:first-child{
+  text-decoration: underline;
+}
